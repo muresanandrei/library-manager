@@ -15,6 +15,7 @@ Create a `.env` file in the root directory with the following variables:
 ```env
 VITE_HOST_URL=http://localhost
 VITE_PORT=3001
+```
 
 ### Instalation
 
